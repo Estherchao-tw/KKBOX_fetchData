@@ -43,8 +43,8 @@ requests                   2.31.0<br>
  `   cursor.execute(command)`<br>
 <br>
 `    result = cursor.fetchall()`<br>
-
+`    print(result)`<br>
 
 ### demo
-![img](deno.png)
-`    print(result)`<br>
+![img](demo.jpg)
+
