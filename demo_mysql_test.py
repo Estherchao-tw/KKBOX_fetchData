@@ -3,7 +3,7 @@ import mysql.connector
 from mysql.connector import errorcode
 
 try:
-  cnx = mysql.connector.connect(user='root', password='888888',
+  cnx = mysql.connector.connect(user='root', password='Emphasize234',
                                 host='127.0.0.1',
                                 database='kkbox')
   #請重新輸入密碼

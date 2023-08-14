@@ -3,7 +3,7 @@ from mysql.connector import errorcode
 
 db_setting = {
   'user':'root', 
-  'password':'888888',
+  'password':'Emphasize234',
   'host':'127.0.0.1',
   'database':'kkbox',
   'raise_on_warnings':True

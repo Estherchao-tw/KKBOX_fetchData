@@ -20,7 +20,7 @@ def get_song_data():
 
 db_setting = {
   'user':'root', 
-  'password':'8888888', #請重新輸入密碼
+  'password':'Emphasize234', #請重新輸入密碼
   'host':'127.0.0.1',
   'database':'kkbox',
   'raise_on_warnings':True
